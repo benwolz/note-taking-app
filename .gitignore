@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Frontend
+/frontend/build
+
+# IDE
+.vscode
+.idea
+*.sw?
+*.log
